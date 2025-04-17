@@ -2,11 +2,6 @@
 
 This is a simple **YouTube homepage clone** built using **HTML** and **CSS**. The goal of this project was to practice front-end development by replicating the layout, structure, and styling of the YouTube interface.
 
-##  Live Demo
-
-👉 [View Live Project](https://your-demo-link-here.com)
-
-
 ##  Features
 
 - Fully styled YouTube homepage layout
